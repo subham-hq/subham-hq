@@ -50,9 +50,16 @@ I am currently improving my skills through structured learning, hands-on project
 
 ---
 
-## 📂 Featured Repositories  
-🔹 **[python_basics](https://github.com/subham-hq/python_basics)** — Examples of Python fundamentals  
-🔹 **[python_problem_solving](https://github.com/subham-hq/python_problem_solving)** — Logic-building challenges and exercises  
+## 📂 Featured Repositories
+
+🔹 **[python_basics](https://github.com/subham-hq/python_basics)**  
+Beginner-friendly Python programs covering variables, loops, conditions, functions, data structures, and regular expressions.
+
+🔹 **[python_problem_solving](https://github.com/subham-hq/python_problem_solving)**  
+Logic-building Python challenges and problem-solving exercises to strengthen algorithmic thinking.
+
+🔹 **[python_web_data_projects](https://github.com/subham-hq/python_web_data_projects)**  
+Python scripts focused on accessing and processing web data, including HTTP requests, APIs, JSON, XML, and web scraping.
 
 ---
 
