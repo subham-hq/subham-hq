@@ -3,15 +3,17 @@
 
 ---
 
-### 🌟 About Me  
-I am an aspiring software engineer with a strong focus on Python programming and foundational computer science concepts.  
-I am currently improving my skills through structured learning, hands-on projects, and consistent daily practice.
+## 🌟 About Me
 
-- 🔭 Actively working on Python fundamentals, data structures, and regular expressions  
-- 🌱 Expanding my understanding of algorithms, clean coding, and version control  
-- 📚 Committed to continuous learning and building meaningful, real-world projects  
-- 🎯 Career goal: Become a proficient Python developer and transition into a remote engineering role  
-- 📫 Reach me at: **subham.bh@icloud.com**
+I am currently transitioning from a business operations background into software engineering, driven by a strong interest in building practical, reliable systems. Having worked closely with real-world business processes, I approach programming with a problem-solving mindset rather than just a coding perspective.
+
+My focus is on developing a deep understanding of core computer science fundamentals especially Python, algorithms, and system thinking through consistent hands-on practice and structured learning.
+
+I enjoy turning complex, real-world challenges into clean, well-structured solutions, and I value clarity, simplicity, and maintainability in the software I build.
+
+🎯 My long-term goal is to combine operational insight with solid engineering skills to create impactful software tools and contribute meaningfully in a remote development environment.
+
+📫 Reach me at: subham.bh@icloud.com
 
 ---
 
