@@ -57,13 +57,41 @@ I am currently improving my skills through structured learning, hands-on project
 
 ---
 
-## 🧠 Core Skills  
-- Python Programming (Beginner → Intermediate)  
-- Data Structures: Lists, Dictionaries, Tuples, Sets  
-- Control Flow, Functions, Modules, Error Handling  
-- Regular Expressions and Text Processing  
-- Git & GitHub (Version Control)  
-- Writing clean, structured, and readable code  
+## 🧠 Core Skills
+
+### 💻 Programming & Computer Science
+- Python Programming (Beginner → Intermediate)
+- Object-Oriented Programming (OOP)
+- Data Structures: Lists, Dictionaries, Tuples, Sets
+- Algorithmic Thinking & Problem Solving
+- Control Flow, Functions, Modules, Error Handling
+- Regular Expressions & Text Processing
+
+### 🛠️ Development Tools & Workflow
+- Git & GitHub (Version Control & Collaboration)
+- Command Line / Terminal Usage
+- Debugging & Code Optimization
+- Writing Clean, Structured, and Readable Code
+
+### 🌐 Web & Technical Foundations
+- Basic HTML, CSS, JavaScript
+- Understanding of Backend Concepts
+- File Handling & Data Processing
+
+### 📊 Data Handling & Databases
+- Working with JSON, CSV, and APIs
+- Database Concepts (SQL, SQLite Basics)
+- Data Extraction & Web Data Processing
+
+### 🎨 Productivity & Design Tools
+- Canva (Graphic & Presentation Design)
+- Microsoft Excel (Data Handling & Analysis)
+- No-Code Website Tools (Wix, WordPress)
+
+### 🚀 Currently Learning
+- Advanced Python Concepts
+- Algorithms & Problem Solving (CS50)
+- Software Engineering Best Practices
 
 ---
 
