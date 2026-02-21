@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Bhattacharya</h1>
-<h3 align="center">Aspiring Software Engineer | Learning Python | Building Projects Daily</h3>
+<h3 align="center">Focused on building reliable software systems with real-world impact.</h3>
 
 ---
 
