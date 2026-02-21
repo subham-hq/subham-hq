@@ -69,14 +69,25 @@ I am currently improving my skills through structured learning, hands-on project
 
 ## 🏆 Certifications  
 
-### ✅ Completed  
-- **Programming for Everybody (Getting Started with Python)** — University of Michigan  
-- **Python Data Structures** — University of Michigan  
+- 🎓 **Programming for Everybody (Getting Started with Python)** — *University of Michigan (Coursera)*  
+  **Grade:** 99.99% • **Issued:** December 2025  
+  🔗 https://coursera.org/share/fb31ceb9795c03e531a532bc2f4acfca
+  
+- 🎓 **Python Data Structures** — *University of Michigan (Coursera)*  
+  **Grade:** 99.19% • **Issued:** December 2025  
+  🔗 https://coursera.org/share/e39d0c93c0e418ce5fed5972db467d58
 
-### ⏳ In Progress  
-- **Python for Everybody Specialization** — University of Michigan *(Currently Enrolled)*  
-- **Regular Expressions in Python** — Intermediate Level  
-- **Git & GitHub Essentials** — Version Control Foundations  
+- 🎓 **Using Python to Access Web Data** — *University of Michigan (Coursera)*  
+  **Grade:** 98.76% • **Issued:** December 2025  
+  🔗 https://coursera.org/share/03f1637f8d472a890005abf8e7f4c13a
+
+- 🎓 **Using Databases with Python** — *University of Michigan (Coursera)*  
+**Grade:** 97.88% • **Issued:** January 2025  
+🔗 https://coursera.org/share/59cd4c3af69f94bb055c6b2e8018eb31
+
+- 🏅 **Python (Basic) Certificate** — *HackerRank*  
+  **Issued:** December 2025  
+  🔗 https://www.hackerrank.com/certificates/7828adacf80c
 
 ---
 
