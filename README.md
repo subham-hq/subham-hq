@@ -93,17 +93,6 @@ Python scripts focused on accessing and processing web data, including HTTP requ
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham-hq&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-hq&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🤝 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/subham-bh" target="blank">
