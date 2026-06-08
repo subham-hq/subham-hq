@@ -26,8 +26,8 @@ I believe in depth over breadth: one stack understood deeply and shipped beats a
 
 ## Engineering Dashboard
 
-| | |
-|---|---|
+| Area | Detail |
+| :-- | :-- |
 | **Primary Language** | Python |
 | **Engineering Focus** | Backend systems, APIs, and data modelling |
 | **Currently Learning** | DSA · Deep Python · PostgreSQL · FastAPI |
@@ -46,10 +46,6 @@ I believe in depth over breadth: one stack understood deeply and shipped beats a
 </p>
 
 **Currently Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,postgres,fastapi&theme=dark" alt="Currently learning" />
-</p>
 
 Data Structures & Algorithms · Deep Python (async, typing) · PostgreSQL · FastAPI · pytest · Linear Algebra
 
