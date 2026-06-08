@@ -146,6 +146,8 @@ Right now I'm building depth in **Python, data structures, and algorithms** thro
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
+<img src="https://raw.githubusercontent.com/subham-hq/subham-hq/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
