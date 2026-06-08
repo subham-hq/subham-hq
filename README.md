@@ -86,6 +86,13 @@ Data Structures & Algorithms · Deep Python (async, typing) · PostgreSQL · Fas
 
 ---
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Learning Roadmap
 
 A dependency-sequenced path from a solid backend core to a production-AI edge.
