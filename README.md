@@ -110,6 +110,15 @@ Right now I'm building depth in **Python, data structures, and algorithms** thro
 
 ## Featured Projects
 
+<!--
+  NOTE: The repo cards below + the Stats/Top-Languages cards under "GitHub Analytics"
+  are all served by  github-readme-stats.vercel.app  — a PUBLIC instance that is
+  heavily rate-limited and frequently renders as broken images.
+  FIX: deploy your own instance (see setup steps), then find-and-replace
+       github-readme-stats.vercel.app  ->  YOUR-APP.vercel.app
+  throughout this file. It appears in 5 places (3 repo cards + 2 analytics cards).
+-->
+
 <div align="center">
 
 <a href="https://github.com/subham-hq/python_basics">
@@ -132,10 +141,16 @@ Right now I'm building depth in **Python, data structures, and algorithms** thro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subham-hq&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=subham-hq&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
+  <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-hq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
