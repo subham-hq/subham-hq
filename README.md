@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a backend-focused software engineer drawn to the parts of a system that never show up in a demo — the edge cases, the failure modes, and the discipline it takes to keep code simple as it grows. I came into engineering from running real operations, where I learned that shipping something is the easy part; keeping it correct under pressure is the actual work.
+I'm a software engineer focused on backend development in Python, drawn to the fundamentals that keep software reliable — clean architecture, solid data structures, and code that stays readable as it grows. I bring an operator's eye for edge cases and failure modes, carried over from running real operations before I moved into engineering.
 
-My foundation is **Python and core computer science** — data structures, algorithms, and clean architecture — built deliberately through projects and structured study rather than tutorials alone. I'm working toward remote backend roles and, over the longer term, AI/ML systems engineering. I care more about correctness, clarity, and maintainability than clever one-liners.
+Right now I'm sharpening my core computer-science skills through hands-on projects and working toward remote backend roles, with a longer-term focus on AI/ML systems engineering. I'd rather write code that's correct and clear than clever.
 
 ---
 
@@ -118,29 +118,29 @@ My foundation is **Python and core computer science** — data structures, algor
 
 </div>
 
-> Each card pulls its **description** from the repo's GitHub "About" field — set a clear one-line description on each repo (Repo → About → ⚙️) so they read well.
-
 ---
 
 ## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=subham-hq&hide_border=true&theme=tokyonight" height="170" alt="GitHub streak" />
+</div>
 
-<img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=subham-hq&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165" />
+<div align="center">
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</div>
 
-<img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
+    <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/subham-hq/subham-hq/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
-  <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-hq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-hq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
 ---
