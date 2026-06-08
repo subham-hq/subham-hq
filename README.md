@@ -47,6 +47,10 @@ I believe in depth over breadth: one stack understood deeply and shipped beats a
 
 **Currently Learning**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,postgres,fastapi&theme=dark" alt="Currently learning" />
+</p>
+
 Data Structures & Algorithms · Deep Python (async, typing) · PostgreSQL · FastAPI · pytest · Linear Algebra
 
 **On the Roadmap** — a deliberate 24-month progression, not a logo collection
@@ -100,6 +104,10 @@ A dependency-sequenced path from a solid backend core to a production-AI edge.
 
 ## Certifications
 
+- **CS50x: Introduction to Computer Science** — Harvard University · edX  
+  https://courses.edx.org/certificates/2de3cc53379b4d0eaac8f701259944b9  
+  https://certificates.cs50.io/c523d8dd-575d-4ed8-bd5f-24a4c990067f.pdf?size=letter
+
 - **Programming for Everybody (Getting Started with Python)** — University of Michigan · Coursera  
   Grade 99.99% · Issued December 2025  
   https://coursera.org/share/fb31ceb9795c03e531a532bc2f4acfca
@@ -146,8 +154,8 @@ A dependency-sequenced path from a solid backend core to a production-AI edge.
 <a href="https://github.com/subham-hq/python_problem_solving">
   <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python_problem_solving&theme=tokyonight&hide_border=true" alt="python_problem_solving" />
 </a>
-<a href="https://github.com/subham-hq/oop-concepts-python">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=oop-concepts-python&theme=tokyonight&hide_border=true" alt="oop-concepts-python" />
+<a href="https://github.com/subham-hq/python_basics">
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python_basics&theme=tokyonight&hide_border=true" alt="python_basics" />
 </a>
 <a href="https://github.com/subham-hq/python-cli-projects">
   <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python-cli-projects&theme=tokyonight&hide_border=true" alt="python-cli-projects" />
