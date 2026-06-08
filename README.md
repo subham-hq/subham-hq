@@ -16,15 +16,9 @@
 
 ## About
 
-I'm an entrepreneur moving deliberately into software engineering, focused on backend development and the fundamentals that make systems dependable. Running real operations taught me to think in constraints, edge cases, and what actually has to hold up in production — and I bring that same mindset to code.
+I'm a backend-focused software engineer drawn to the parts of a system that never show up in a demo — the edge cases, the failure modes, and the discipline it takes to keep code simple as it grows. I came into engineering from running real operations, where I learned that shipping something is the easy part; keeping it correct under pressure is the actual work.
 
-Right now I'm building depth in **Python, data structures, and algorithms** through structured study and hands-on projects, working toward remote backend roles and, longer term, AI/ML systems engineering. I value clarity, correctness, and maintainability over cleverness.
-
-- Backend-focused, Python-first
-- Comfortable reasoning about data, APIs, and clean architecture
-- Learning in public, building consistently
-
-**Email** — subham.bh@icloud.com
+My foundation is **Python and core computer science** — data structures, algorithms, and clean architecture — built deliberately through projects and structured study rather than tutorials alone. I'm working toward remote backend roles and, over the longer term, AI/ML systems engineering. I care more about correctness, clarity, and maintainability than clever one-liners.
 
 ---
 
@@ -110,30 +104,21 @@ Right now I'm building depth in **Python, data structures, and algorithms** thro
 
 ## Featured Projects
 
-<!--
-  NOTE: The repo cards below + the Stats/Top-Languages cards under "GitHub Analytics"
-  are all served by  github-readme-stats.vercel.app  — a PUBLIC instance that is
-  heavily rate-limited and frequently renders as broken images.
-  FIX: deploy your own instance (see setup steps), then find-and-replace
-       github-readme-stats.vercel.app  ->  YOUR-APP.vercel.app
-  throughout this file. It appears in 5 places (3 repo cards + 2 analytics cards).
--->
-
 <div align="center">
 
 <a href="https://github.com/subham-hq/python_basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subham-hq&repo=python_basics&theme=tokyonight&hide_border=true" alt="python_basics" />
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python_basics&theme=tokyonight&hide_border=true" alt="python_basics" />
 </a>
 <a href="https://github.com/subham-hq/python_problem_solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subham-hq&repo=python_problem_solving&theme=tokyonight&hide_border=true" alt="python_problem_solving" />
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python_problem_solving&theme=tokyonight&hide_border=true" alt="python_problem_solving" />
 </a>
 <a href="https://github.com/subham-hq/python_web_data_projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subham-hq&repo=python_web_data_projects&theme=tokyonight&hide_border=true" alt="python_web_data_projects" />
+  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python_web_data_projects&theme=tokyonight&hide_border=true" alt="python_web_data_projects" />
 </a>
 
 </div>
 
-> The cards above pull each repo's **description** straight from GitHub. Set a clear one-line description on each repository (Repo → About → ⚙️) so the cards read well — otherwise they render with the title only.
+> Each card pulls its **description** from the repo's GitHub "About" field — set a clear one-line description on each repo (Repo → About → ⚙️) so they read well.
 
 ---
 
@@ -141,10 +126,10 @@ Right now I'm building depth in **Python, data structures, and algorithms** thro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com?user=subham-hq&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
 <img src="https://raw.githubusercontent.com/subham-hq/subham-hq/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 
