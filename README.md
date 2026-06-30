@@ -2,7 +2,7 @@
 
 # Subham Bhattacharya
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=660&lines=Backend+Developer+%C2%B7+Python;Building+and+shipping+real+projects;Computer-science+fundamentals%2C+done+right" alt="Subham Bhattacharya — Backend Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=660&lines=Backend+Developer+%C2%B7+Python;Building+real%2C+working+projects;From+running+operations+to+writing+code" alt="Subham Bhattacharya — Backend Developer" />
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Backend_%26_APIs-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Focus" />
@@ -16,11 +16,11 @@
 
 ## About
 
-I'm a backend developer working mainly in Python. My focus is the part of software that has to stay correct and maintainable as it grows — APIs, data models, and the logic underneath them. Most of what you'll find here is project and coursework code from a structured path through backend engineering and computer-science fundamentals.
+I'm a backend developer working mainly in Python, and I reached engineering by an unusual route. Before I wrote software, I spent years running real business operations — and that's the lens I bring to code. I think about constraints, edge cases, and what fails under load before I think about syntax, because I've seen first-hand what it costs when a system people depend on gets something wrong.
 
-I came to software while running real business operations, which shaped how I work: I think about constraints, edge cases, and failure modes before I reach for syntax. I'd rather understand one stack deeply and be able to defend my trade-offs than collect tools I've touched once.
+My focus is the backend: the APIs, data models, and service logic that have to stay correct and maintainable as a system grows. I'd rather understand one stack deeply and defend every trade-off out loud than collect frameworks I've touched once.
 
-**Currently:** deepening Python (typing, async) and moving from SQLite toward PostgreSQL · building out OrderFlow · daily DSA practice.
+Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals. The work is my proof — clean repositories, honest documentation, and projects I can stand behind in a real technical conversation.
 
 ---
 
@@ -32,7 +32,7 @@ I came to software while running real business operations, which shaped how I wo
 
 **Working with** — Python · Flask · SQLite · SQL · Git · HTML / CSS · C
 
-**Currently learning** — PostgreSQL · FastAPI · pytest · data structures & algorithms
+**Learning** — PostgreSQL · FastAPI · REST API design · testing with pytest · data structures & algorithms
 
 ---
 
