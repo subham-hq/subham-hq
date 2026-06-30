@@ -16,18 +16,18 @@
 
 ## About
 
-I'm a backend developer working mainly in Python, and I reached engineering by an unusual route. Before I wrote software, I spent years running real business operations — and that's the lens I bring to code. I think about constraints, edge cases, and what fails under load before I think about syntax, because I've seen first-hand what it costs when a system people depend on gets something wrong.
+I'm a backend developer working mainly in Python, and I reached engineering by an unusual route. Before I wrote software, I spent years running real business operations — and that's the lens I bring to code. I think about constraints, edge cases, and how things fail before I think about syntax, because I've learned the hard way that a process which quietly breaks costs real money and trust.
 
-My focus is the backend: the APIs, data models, and service logic that have to stay correct and maintainable as a system grows. I'd rather understand one stack deeply and defend every trade-off out loud than collect frameworks I've touched once.
+My focus is the backend — the APIs, data models, authentication, and service logic that have to stay correct and maintainable as a system grows. I'd rather understand one stack deeply and defend every trade-off out loud than collect frameworks I've touched once, and I try to write code that the next person (often future me) can actually read.
 
-Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals. The work is my proof — clean repositories, honest documentation, and projects I can stand behind in a real technical conversation.
+Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals. My main project, OrderFlow, is where I work through the concerns that matter in real systems rather than in tutorials — and the rest is here to be read: clean repositories, honest documentation, and projects I can stand behind in a technical conversation.
 
 ---
 
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,flask,sqlite,html,css,js,c,git,github&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=py,flask,sqlite,html,css,js,c,git,github,githubactions,vscode,md&theme=dark" alt="Stack" />
 </p>
 
 **Working with** — Python · Flask · SQLite · SQL · Git · HTML / CSS · C
@@ -46,7 +46,7 @@ Most of what's on this profile is project and coursework code from a deliberate,
 
 </div>
 
-**OrderFlow** — an order-management system I'm building in Flask, and my main project for practising backend engineering end to end: authentication, access control, and order-lifecycle handling. It's where I work on the concerns that matter in real systems, not just in tutorials.
+**OrderFlow** — an order-management system I'm building in Flask, where I work through the core backend concerns of a real system: authentication, access control, and order-lifecycle handling.
 
 **Other work** — coursework, problem-solving, and smaller Python projects:
 
@@ -142,5 +142,5 @@ Most of what's on this profile is project and coursework code from a deliberate,
 ---
 
 <div align="center">
-<sub>Building in public — backend engineering, one project at a time.</sub>
+<sub>The code says more than this page does.</sub>
 </div>
