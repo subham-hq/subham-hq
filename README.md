@@ -20,7 +20,7 @@ I'm a backend developer working mainly in Python, and I reached engineering by a
 
 My focus is the backend — the APIs, data models, authentication, and service logic that have to stay correct and maintainable as a system grows. I'd rather understand one stack deeply and defend every trade-off out loud than collect frameworks I've touched once, and I try to write code that the next person (often future me) can actually read.
 
-Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals, which I'm also formalising through a BSc in Computer Science. Everything here is meant to be read: clean repositories, honest documentation, and projects I can stand behind in a technical conversation.
+Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals, which I'm also formalising through a BSc in Computer Science. Longer term, I'm building toward AI/ML systems — which sit on exactly the kind of reliable backend infrastructure I'm focused on now. Everything here is meant to be read: clean repositories, honest documentation, and projects I can stand behind in a technical conversation.
 
 ---
 
