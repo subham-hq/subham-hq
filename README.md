@@ -109,10 +109,6 @@ Most of what's on this profile is project and coursework code from a deliberate,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/top-langs/?username=subham-hq&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/subham-hq/subham-hq/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </div>
 
