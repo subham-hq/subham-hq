@@ -12,13 +12,7 @@
 
 <p>
   <a href="https://www.subhambhattacharya.com/resume">
-    <img src="https://img.shields.io/badge/Resume-View-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Resume" />
-  </a>
-  <a href="https://www.subhambhattacharya.com">
-    <img src="https://img.shields.io/badge/Portfolio-subhambhattacharya.com-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/subham-bh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=flat-square&labelColor=1A1B27" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Resume-View-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Resume" />
   </a>
 </p>
 
