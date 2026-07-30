@@ -1,6 +1,6 @@
 <div align="center">
 
-# Subham Bhattacharya
+<h1 align="center">Subham Bhattacharya</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=660&lines=Backend+Developer+%C2%B7+Python;Building+real%2C+working+projects;From+running+operations+to+writing+code" alt="Subham Bhattacharya — Backend Developer" />
 
@@ -8,6 +8,18 @@
   <img src="https://img.shields.io/badge/Focus-Backend_%26_APIs-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Focus" />
   <img src="https://img.shields.io/badge/Stack-Python_%C2%B7_Flask_%C2%B7_SQL-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Stack" />
   <img src="https://img.shields.io/badge/Based_in-India-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Location" />
+</p>
+
+<p>
+  <a href="https://www.subhambhattacharya.com/resume">
+    <img src="https://img.shields.io/badge/Resume-View-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Resume" />
+  </a>
+  <a href="https://www.subhambhattacharya.com">
+    <img src="https://img.shields.io/badge/Portfolio-subhambhattacharya.com-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/subham-bh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=flat-square&labelColor=1A1B27" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
