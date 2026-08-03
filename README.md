@@ -32,13 +32,21 @@ Most of what's on this profile is project and coursework code from a deliberate,
 
 ## Tech
 
+**Working with**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=py,flask,sqlite,html,css,js,c,git,github,githubactions,vscode,md&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=py,flask,sqlite,c,js,ts,nextjs,react,tailwind,html,css,nodejs,cloudflare,workers,git,github,githubactions,vscode,md&theme=dark&perline=10" alt="Current stack" />
 </p>
 
-**Working with** — Python · Flask · SQLite · SQL · Git · HTML / CSS · C
+Python · Flask · SQLite · SQL · C · JavaScript · TypeScript · Next.js (App Router) · React · Tailwind CSS · HTML / CSS · Node.js · Cloudflare Pages & Workers · Git · GitHub Actions
 
-**Learning** — PostgreSQL · FastAPI · REST API design · testing with pytest · data structures & algorithms
+**Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,fastapi&theme=dark&perline=10" alt="Learning" />
+</p>
+
+PostgreSQL · FastAPI · REST API design · testing with pytest · data structures & algorithms
 
 ---
 
