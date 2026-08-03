@@ -6,7 +6,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Backend_%26_APIs-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-Python_%C2%B7_Flask_%C2%B7_SQL-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Stack" />
+  <img src="https://img.shields.io/badge/Core-Python_%C2%B7_Flask_%C2%B7_SQL-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Core stack" />
+  <img src="https://img.shields.io/badge/Web-TypeScript_%C2%B7_Next.js_%C2%B7_Cloudflare-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Web stack" />
   <img src="https://img.shields.io/badge/Based_in-India-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Location" />
 </p>
 
