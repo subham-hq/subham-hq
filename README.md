@@ -52,60 +52,30 @@ PostgreSQL · FastAPI · REST API design · testing with pytest · data structur
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/orderflow">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=orderflow&theme=tokyonight&hide_border=true&description_lines_count=2" alt="OrderFlow" />
-      </a>
-      <br />
-      <sub>Flask order-management system — authentication, role-based access, order lifecycle.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/portfolio">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=portfolio&theme=tokyonight&hide_border=true&description_lines_count=2" alt="portfolio" />
-      </a>
-      <br />
-      <sub>subhambhattacharya.com — Next.js, TypeScript, Tailwind, shipped on Cloudflare.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/site-auditor">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=site-auditor&theme=tokyonight&hide_border=true&description_lines_count=2" alt="site-auditor" />
-      </a>
-      <br />
-      <sub>Concurrent crawler and link auditor — asyncio, process pool, benchmarks. In development.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/python-deep-dive">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python-deep-dive&theme=tokyonight&hide_border=true&description_lines_count=2" alt="python-deep-dive" />
-      </a>
-      <br />
-      <sub>Core Python built from scratch — decorators, iterators, generators, context managers.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/leetcode-solutions">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=leetcode-solutions&theme=tokyonight&hide_border=true&description_lines_count=2" alt="leetcode-solutions" />
-      </a>
-      <br />
-      <sub>Data structures and algorithms, worked through and documented as I go.</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/subham-hq/c-programming-fundamental">
-        <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=c-programming-fundamental&theme=tokyonight&hide_border=true&description_lines_count=2" alt="c-programming-fundamental" />
-      </a>
-      <br />
-      <sub>C fundamentals — pointers, memory, and working closer to the machine.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/subham-hq/orderflow">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=orderflow&theme=tokyonight&hide_border=true&description_lines_count=2" alt="OrderFlow" />
+  </a>
+  <a href="https://github.com/subham-hq/portfolio">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=portfolio&theme=tokyonight&hide_border=true&description_lines_count=2" alt="portfolio" />
+  </a>
+  <a href="https://github.com/subham-hq/site-auditor">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=site-auditor&theme=tokyonight&hide_border=true&description_lines_count=2" alt="site-auditor" />
+  </a>
+  <a href="https://github.com/subham-hq/python-deep-dive">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python-deep-dive&theme=tokyonight&hide_border=true&description_lines_count=2" alt="python-deep-dive" />
+  </a>
+  <a href="https://github.com/subham-hq/leetcode-solutions">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=leetcode-solutions&theme=tokyonight&hide_border=true&description_lines_count=2" alt="leetcode-solutions" />
+  </a>
+  <a href="https://github.com/subham-hq/c-programming-fundamental">
+    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=c-programming-fundamental&theme=tokyonight&hide_border=true&description_lines_count=2" alt="c-programming-fundamental" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/subham-hq?tab=repositories">All repositories →</a>
-</div>
+</p>
 
 ---
 
