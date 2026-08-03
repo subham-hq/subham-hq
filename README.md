@@ -140,6 +140,7 @@ PostgreSQL · FastAPI · REST API design · testing with pytest · data structur
 ## Connect
 
 <p>
+  <a href="https://subhambhattacharya.com"><img src="https://img.shields.io/badge/Portfolio-subhambhattacharya.com-7AA2F7?style=flat-square&logo=safari&logoColor=white&labelColor=1A1B27" alt="Portfolio" /></a>
   <a href="https://github.com/subham-hq"><img src="https://img.shields.io/badge/GitHub-subham--hq-7AA2F7?style=flat-square&logo=github&logoColor=white&labelColor=1A1B27" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/subham-bh"><img src="https://img.shields.io/badge/LinkedIn-subham--bh-7AA2F7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@subham.bhattacharya"><img src="https://img.shields.io/badge/YouTube-subham.bhattacharya-7AA2F7?style=flat-square&logo=youtube&logoColor=white&labelColor=1A1B27" alt="YouTube" /></a>
