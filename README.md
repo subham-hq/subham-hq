@@ -150,5 +150,5 @@ PostgreSQL · FastAPI · REST API design · testing with pytest · data structur
 ---
 
 <div align="center">
-<sub>The code says more than this page does</sub>
+<sub>The code says more than this page does.</sub>
 </div>
