@@ -129,11 +129,6 @@ PostgreSQL · FastAPI · REST API design · testing with pytest · data structur
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
     <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-hq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
 
 ---
 
