@@ -1,25 +1,19 @@
 <div align="center">
 
-<h1 align="center">Subham Bhattacharya</h1>
+# Subham Bhattacharya
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=660&lines=Backend+Developer+%C2%B7+Python;Building+real%2C+working+projects;From+running+operations+to+writing+code" alt="Subham Bhattacharya — Backend Developer" />
+### Backend Engineer
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_APIs-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Focus" />
-  <img src="https://img.shields.io/badge/Core-Python_%C2%B7_Flask_%C2%B7_SQL-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Core stack" />
-  <img src="https://img.shields.io/badge/Web-TypeScript_%C2%B7_Next.js_%C2%B7_Cloudflare-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Web stack" />
-  <img src="https://img.shields.io/badge/Based_in-India-7AA2F7?style=flat-square&labelColor=1A1B27" alt="Location" />
-</p>
+APIs, databases and concurrency&nbsp;— building toward AI/ML systems
 
-<p>
-  <a href="https://www.subhambhattacharya.com/resume">
-    <img src="https://img.shields.io/badge/Resume-View-7AA2F7?style=for-the-badge&labelColor=1A1B27" alt="Resume" />
-  </a>
+<p align="center">
+<a href="https://subhambhattacharya.com/resume"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-resume-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-resume-light.svg"><img alt="Résumé" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-resume-light.svg"></picture></a>
+<a href="https://subhambhattacharya.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-portfolio-light.svg"><img alt="Portfolio" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-portfolio-light.svg"></picture></a>
+<a href="https://www.linkedin.com/in/subham-bh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-linkedin-light.svg"></picture></a>
+<a href="mailto:hello@subhambhattacharya.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-email-light.svg"><img alt="Email" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-email-light.svg"></picture></a>
 </p>
 
 </div>
-
----
 
 ## About
 
