@@ -25,23 +25,16 @@ Most of what's on this profile is project and coursework code from a deliberate,
 
 ---
 
-## Tech
+## Tech stack
 
-**Working with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,flask,sqlite,c,js,ts,nextjs,react,tailwind,html,css,nodejs,cloudflare,workers,git,github,githubactions,vscode,md&theme=dark&perline=10" alt="Current stack" />
-</p>
-
-Python · Flask · SQLite · SQL · C · JavaScript · TypeScript · Next.js (App Router) · React · Tailwind CSS · HTML / CSS · Node.js · Cloudflare Pages & Workers · Git · GitHub Actions
-
-**Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,fastapi&theme=dark&perline=10" alt="Learning" />
-</p>
-
-PostgreSQL · FastAPI · REST API design · testing with pytest · data structures & algorithms
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-backend-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-backend-light.svg"><img alt="Backend: FastAPI, Litestar, Strawberry GraphQL, Flask, Pydantic, asyncio, httpx" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-backend-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-languages-light.svg"><img alt="Languages: Python, SQL, TypeScript, JavaScript, C, HTML and CSS" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-languages-light.svg"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-apis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-apis-light.svg"><img alt="APIs and protocols: REST APIs, GraphQL, HTTP, ASGI" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-apis-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-data-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-data-light.svg"><img alt="Data: PostgreSQL, SQLAlchemy, SQLite" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-data-light.svg"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-quality-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-quality-light.svg"><img alt="Quality and CI: pytest, mypy, ruff, uv, GitHub Actions, code review" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-quality-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-cloud-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-cloud-light.svg"><img alt="Cloud and tooling: Cloudflare Pages, Cloudflare Workers, Git, GitHub, Linux" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-cloud-light.svg"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-light.svg"><img alt="Web and frontend: Next.js (App Router), React, Tailwind CSS, Node.js, Zod" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-light.svg"><img alt="Fundamentals: data structures and algorithms, concurrency, static typing" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-light.svg"></picture>
 
 ---
 
