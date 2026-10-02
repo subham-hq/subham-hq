@@ -82,7 +82,6 @@ Most of what's on this profile is project and coursework code from a deliberate,
     <img alt="Snake eating Subham's GitHub contribution grid" src="https://raw.githubusercontent.com/subham-hq/subham-hq/output/github-snake.svg" />
   </picture>
 
----
 
 <div align="center">
 
