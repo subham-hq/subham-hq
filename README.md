@@ -23,7 +23,6 @@ My focus is the backend — the APIs, data models, authentication, and service l
 
 Most of what's on this profile is project and coursework code from a deliberate, structured path through backend engineering and computer-science fundamentals, which I'm also formalising through a BS in Computer Science. Longer term, I'm building toward AI/ML systems — which sit on exactly the kind of reliable backend infrastructure I'm focused on now. Everything here is meant to be read: clean repositories, honest documentation, and projects I can stand behind in a technical conversation.
 
----
 
 ## Tech stack
 
