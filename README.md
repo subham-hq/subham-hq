@@ -40,31 +40,14 @@ Most of what's on this profile is project and coursework code from a deliberate,
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/subham-hq/orderflow">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=orderflow&theme=tokyonight&hide_border=true&description_lines_count=2" alt="OrderFlow" />
-  </a>
-  <a href="https://github.com/subham-hq/portfolio">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=portfolio&theme=tokyonight&hide_border=true&description_lines_count=2" alt="portfolio" />
-  </a>
-  <a href="https://github.com/subham-hq/site-auditor">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=site-auditor&theme=tokyonight&hide_border=true&description_lines_count=2" alt="site-auditor" />
-  </a>
-  <a href="https://github.com/subham-hq/python-deep-dive">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=python-deep-dive&theme=tokyonight&hide_border=true&description_lines_count=2" alt="python-deep-dive" />
-  </a>
-  <a href="https://github.com/subham-hq/leetcode-solutions">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=leetcode-solutions&theme=tokyonight&hide_border=true&description_lines_count=2" alt="leetcode-solutions" />
-  </a>
-  <a href="https://github.com/subham-hq/c-programming-fundamental">
-    <img width="48%" src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api/pin/?username=subham-hq&repo=c-programming-fundamental&theme=tokyonight&hide_border=true&description_lines_count=2" alt="c-programming-fundamental" />
-  </a>
-</p>
+<a href="https://github.com/subham-hq/orderflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-orderflow-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-orderflow-light.svg"><img alt="OrderFlow: multi-tenant B2B order management. Python, Flask, SQLite, Jinja." src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-orderflow-light.svg"></picture></a>
+<a href="https://subhambhattacharya.com/projects/postmark"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-postmark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-postmark-light.svg"><img alt="Postmark: email threat detection, Smart India Hackathon 2026 (private; opens the case study). Python, FastAPI, PostgreSQL, pytest." src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-postmark-light.svg"></picture></a><br>
+<a href="https://github.com/subham-hq/site-auditor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-site-auditor-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-site-auditor-light.svg"><img alt="site-auditor (in progress): async crawler and link-health auditor. Python, asyncio, httpx, pytest, mypy." src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-site-auditor-light.svg"></picture></a>
+<a href="https://github.com/subham-hq/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-portfolio-light.svg"><img alt="portfolio (live): Next.js site on Cloudflare Pages. TypeScript, Next.js, Tailwind CSS, Cloudflare." src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/project-portfolio-light.svg"></picture></a>
 
 <p align="center">
-  <a href="https://github.com/subham-hq?tab=repositories">All repositories →</a>
+<a href="https://github.com/subham-hq?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-light.svg"><img alt="All repositories" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-light.svg"></picture></a>
 </p>
-
 ---
 
 ## Education & certifications
