@@ -36,7 +36,6 @@ Most of what's on this profile is project and coursework code from a deliberate,
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-light.svg"><img alt="Web and frontend: Next.js (App Router), React, Tailwind CSS, Node.js, Zod" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-web-light.svg"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-light.svg"><img alt="Fundamentals: data structures and algorithms, concurrency, static typing" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/stack-fundamentals-light.svg"></picture>
 
----
 
 ## Projects
 
@@ -48,7 +47,7 @@ Most of what's on this profile is project and coursework code from a deliberate,
 <p align="center">
 <a href="https://github.com/subham-hq?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-light.svg"><img alt="All repositories" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/btn-repos-light.svg"></picture></a>
 </p>
----
+
 
 ## Education & certifications
 
@@ -61,7 +60,6 @@ Most of what's on this profile is project and coursework code from a deliberate,
 <a href="https://coursera.org/share/fb31ceb9795c03e531a532bc2f4acfca"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-py4e-programming-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-py4e-programming-light.svg"><img alt="Programming for Everybody (Getting Started with Python), University of Michigan, Coursera, Dec 2025" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-py4e-programming-light.svg"></picture></a>
 <a href="https://www.hackerrank.com/certificates/7828adacf80c"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-hackerrank-python-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-hackerrank-python-light.svg"><img alt="Python (Basic), HackerRank, Dec 2025" src="https://raw.githubusercontent.com/subham-hq/subham-hq/main/assets/card-hackerrank-python-light.svg"></picture></a>
 
----
 
 ## GitHub Activity
 
