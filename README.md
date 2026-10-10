@@ -67,11 +67,6 @@ Most of what's on this profile is project and coursework code from a deliberate,
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-two-xi-tuys78nird.vercel.app/api?username=subham-hq&show_icons=true&hide_border=true&theme=tokyonight" height="170" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=subham-hq&hide_border=true&theme=tokyonight" height="170" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/subham-hq/subham-hq/output-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </div>
 
